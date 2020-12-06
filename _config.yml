@@ -23,8 +23,9 @@ lang: en
 description: Write an awesome description for your new site here
 
 # Build settings
-#theme: minima
-theme: jekyll-rtd-theme
+# theme: minima
+# theme: jekyll-rtd-theme
+remote_theme: rundocs/jekyll-rtd-theme
 # plugins:
 #   - jekyll-feed
 
